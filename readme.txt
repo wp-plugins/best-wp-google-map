@@ -1,5 +1,5 @@
 ===Best-wp-google-map===
-Contributors: Raju Ahmed
+Contributors: raju_ahmed
 Tags: google-map,wp-map
 Requires at least: 2.9.2
 Tested up to: 4.1
