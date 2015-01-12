@@ -10,8 +10,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
  Display google map in your wordpress site.
 
 == Description ==
-Description: This plugin is for wordpress to display google map in your wordpress site. 
+This plugin is for wordpress to display google map in your wordpress site. 
 Shortcode  [google_map_view latitude="24.17310" longitudinal="88.91905"]. 
+
 Find you map latitude and longitudinal from here <a target="_blank" href="http://universimmedia.pagesperso-orange.fr/geo/loc.htm">coordinate</a>
  
 Display map: [google_map_view latitude="24.17310" longitudinal="88.91905"]
